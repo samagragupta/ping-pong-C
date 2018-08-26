@@ -4,6 +4,7 @@
 #include<conio.h>
 #include<dos.h>
 
+//Structure of ball
 struct ball{
  int x ;
  int y ;
@@ -12,6 +13,7 @@ struct ball{
  int speedy;
 }ball;
 
+//Structure of Bat(b1,b2)
 struct bat{
  int x;
  int y;
