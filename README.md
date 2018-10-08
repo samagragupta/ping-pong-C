@@ -1,4 +1,4 @@
-# ping-pong-c
+# Ping-pong-c
 A Ping Pong game in C.
 This game supports multiplayer gameplay. 
 This game uses C-graphic libraries to provide high quality user gameplay.
